@@ -50,7 +50,7 @@ if &t_Co > 255
   " Misc
   " ----
   " directory names and other special names in listings
-  hi Directory                 guifg=NONE    guibg=NONE    gui=NONE ctermfg=190 ctermbg=NONE cterm=NONE
+  hi Directory                 guifg=#FFAAAA guibg=NONE    gui=NONE ctermfg=203 ctermbg=NONE cterm=NONE
   hi Comment                   guifg=#7C7C7C guibg=NONE    gui=NONE ctermfg=60  ctermbg=NONE cterm=NONE
   hi Todo                      guifg=NONE    guibg=NONE    gui=NONE ctermfg=87  ctermbg=NONE cterm=BOLD
   hi special                   guifg=NONE    guibg=NONE    gui=NONE ctermfg=133 ctermbg=NONE cterm=BOLD
