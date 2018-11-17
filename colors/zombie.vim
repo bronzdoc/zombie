@@ -13,7 +13,7 @@ let colors_name = "zombie"
 
 " General colors
 hi Cursor          guifg=NONE    guibg=#626262 gui=NONE      ctermfg=NONE     ctermbg=241  cterm=NONE
-hi Normal          guifg=NONE    guibg=NONE    gui=NONE      ctermfg=253      ctermbg=NONE cterm=NONE
+hi Normal          guifg=NONE    guibg=#262626 gui=NONE      ctermfg=253      ctermbg=NONE cterm=NONE
 hi NonText         guifg=NONE    guibg=NONE    gui=NONE      ctermfg=244      ctermbg=NONE cterm=NONE
 hi statusline      guifg=NONE    guibg=#303030 gui=NONE      ctermfg=253      ctermbg=238  cterm=NONE
 hi StatusLineNC    guifg=NONE    guibg=#303030 gui=NONE      ctermfg=246      ctermbg=238  cterm=NONE
@@ -22,8 +22,8 @@ hi Folded          guifg=NONE    guibg=#384048 gui=NONE      ctermfg=9        ct
 hi Title           guifg=NONE    guibg=NONE    gui=BOLD      ctermfg=254      ctermbg=NONE cterm=BOLD
 hi Visual          guifg=NONE    guibg=#3A3A3A gui=NONE      ctermfg=122      ctermbg=237  cterm=NONE
 hi SpecialKey      guifg=#7C7C7C guibg=NONE    gui=NONE      ctermfg=237      ctermbg=NONE cterm=NONE
-hi CursorLine      guifg=NONE    guibg=#262626 gui=NONE      ctermfg=NONE     ctermbg=235  cterm=NONE
-hi CursorColumn    guifg=NONE    guibg=#262626 gui=NONE      ctermfg=NONE     ctermbg=235  cterm=NONE
+hi CursorLine      guifg=NONE    guibg=#313131 gui=NONE      ctermfg=NONE     ctermbg=235  cterm=NONE
+hi CursorColumn    guifg=NONE    guibg=#313131 gui=NONE      ctermfg=NONE     ctermbg=235  cterm=NONE
 hi LineNr          guifg=#4E4E4E guibg=#222222 gui=NONE      ctermfg=239      ctermbg=234  cterm=NONE
 hi CursorLineNr    guifg=#00FFFF guibg=NONE    gui=NONE      ctermfg=51       ctermbg=NONE cterm=NONE
 hi SignColumn      guifg=NONE    guibg=#1c1c1c gui=NONE      ctermfg=NONE     ctermbg=234  cterm=NONE
